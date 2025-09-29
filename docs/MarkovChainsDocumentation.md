@@ -1,9 +1,4 @@
 
----
-
-## **2️⃣ `markov_chains.md`**
-
-```markdown
 # Markov Chain Melody Generator
 
 ## Overview
