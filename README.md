@@ -71,4 +71,4 @@ Example:
 - Optional random fills can be added for variation.
 
 #### Author
-**Anurag Saish - Manipal University Jaipur - B.Tech Computer Science Engineerg 2026**
+**Anurag Saish - Manipal University Jaipur - B.Tech Computer Science Engineering 2026**
